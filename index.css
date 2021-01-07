@@ -1,0 +1,82 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+main {
+    display: inline-block;
+    width: 1500px;
+    margin-top: 40px;
+    margin-left: calc((100% - 1500px) / 2);
+}
+
+header {
+    display: inline-block;
+    width: 100%;
+}
+
+.error {
+    display: inline-block;
+    margin-right: 5%;
+}
+
+section {
+    display: inline-block;
+    width: 100%;
+    color: gray;
+    text-align: center;
+}
+
+.imgc {
+    display: inline-block;
+    float: right;
+    width: 100%;
+    margin-top: 5%;
+}
+
+button {
+    display: inline-block;
+    background-color: black;
+    color: gray;
+    border: solid 2px rgb(180, 176, 176);
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    width: 20%;
+    margin-right: 6%;
+    margin-top: 3%;
+    cursor: pointer;
+    font-size: 19px;
+}
+button:hover{
+    background-color: rgb(180, 176, 176);
+    color: black;
+}
+/* navigacija */
+
+.logo{
+    display: inline-block;
+    float: left;
+    width: 5%;
+    margin-top: 1%;
+}
+
+nav {
+    display: inline-block;
+    float: right;
+    margin-top: 25px;
+}
+
+nav a{
+    text-decoration: none;
+    color: gray;
+    margin-right: 50px;
+    text-align: center;
+}
+
+a:last-child{
+    border: solid 3px white;
+    border-radius: 20px;
+    padding: 5px 20px 5px 20px;
+    background-color: white;
+    color: black;
+}
