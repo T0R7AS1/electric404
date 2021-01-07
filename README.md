@@ -9,14 +9,8 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://t0r7as1.github.io/mergaite404/.
-
-Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
-
+Site published at https://t0r7as1.github.io/electric404/
 
 ## Project features
 - css components
 - multi-page
-
-## Authors
-[Rimantas](https://github.com/belauzas)
